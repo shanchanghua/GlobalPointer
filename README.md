@@ -34,4 +34,9 @@
 需要`bert4keras >= 0.10.6`。个人实验环境是tensorflow 1.14 + keras 2.3.1 + bert4keras 0.10.6。
 
 ## 交流
-QQ交流群：808623966，微信群请加机器人微信号spaces_ac_cn
+- Issue(建议)
+- 邮件我：shanhe12@163.com 
+- 微信我： 加我*微信号：hua7yi, 备注：姓名-公司名-NLP* 进NLP交流群。
+
+<img src="https://github.com/shanchanghua/GlobalPointer/blob/main/docs/wechat.jpg" width="200" />
+ 
